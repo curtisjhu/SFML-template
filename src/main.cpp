@@ -2,7 +2,7 @@
 #include <iostream>
 
 int main() {
-	sf::Window window(sf::VideoMode(800, 600), "Traffic Simulation");
+	sf::Window window(sf::VideoMode(800, 600), "Template");
 
 	while (window.isOpen())
 	{
